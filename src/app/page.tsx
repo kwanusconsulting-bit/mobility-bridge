@@ -18,17 +18,14 @@ export default function Home() {
         {/* Hero */}
         <section className="text-center space-y-4">
           <h1 className="text-3xl md:text-4xl font-semibold leading-tight">
-            Why Your Knees Feel Stiffer After 45 — And The Simple 7-Minute Routine Many Adults Are Using At Home
+            Simple 7-Minute Daily Routine{" "}
+            <span className="text-emerald-300">To Support Easier Movement After 45</span>
           </h1>
 
           <p className="text-sm md:text-base text-neutral-300 max-w-2xl mx-auto">
             No intense workouts. No complicated equipment. Just a short,
             seated routine many adults are using to feel more comfortable
             with daily stairs, walks, and getting up from chairs.
-          </p>
-
-          <p className="text-sm md:text-base text-emerald-200 max-w-2xl mx-auto italic">
-            Before considering injections, braces, or expensive programs…
           </p>
 
           <div className="mt-6 flex justify-center">
@@ -38,7 +35,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center rounded-full bg-emerald-400 px-7 py-3 text-sm md:text-base font-semibold text-neutral-900 shadow-lg shadow-emerald-500/30 hover:bg-emerald-300 transition"
             >
-              See The Short 7-Minute Routine
+              Watch The 7-Minute Routine
             </a>
           </div>
 
@@ -112,7 +109,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center rounded-full bg-emerald-400 px-7 py-3 text-sm md:text-base font-semibold text-neutral-900 shadow-lg shadow-emerald-500/30 hover:bg-emerald-300 transition"
             >
-              See The Short 7-Minute Routine
+              Watch The 7-Minute Routine
             </a>
           </div>
         </section>
